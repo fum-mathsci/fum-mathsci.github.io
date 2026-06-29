@@ -4,3 +4,5 @@ title: "روسای دانشکده"
 
 
 # روسای دانشکده از آغاز تاکنون
+
+![image](images/misc/deans.png)
