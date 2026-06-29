@@ -1,5 +1,5 @@
 ---
-title: "۱۱-computing"
+title: "بخش رایانه"
 ---
 
 
