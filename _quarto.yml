@@ -1,0 +1,37 @@
+project:
+  type: book
+  output-dir: _book
+book:
+  title: "تاریخچه دانشکده علوم ریاضی"
+  subtitle: "دانشگاه فردوسی مشهد"
+  author: "تهیه و تدوین: زهره وثاق و وحیده وحیدنیا"
+  date: "تیر ماه ۱۴۰۵"
+  chapters:
+    - index.qmd
+    - 01-preface.qmd
+    - 02-history.qmd
+    - 03-deans.qmd
+    - 04-admin.qmd
+    - 05-departments.qmd
+    - 06-honors.qmd
+    - 07-student-honors.qmd
+    - 08-research.qmd
+    - 09-library.qmd
+    - 10-journals.qmd
+    - 11-computing.qmd
+    - 12-labs.qmd
+    - 13-conferences.qmd
+    - 14-memorials.qmd
+    - 15-books.qmd
+    - 16-appendix.qmd
+    - 17-references.qmd
+dir: rtl
+format:
+  html:
+    theme: cosmo
+    toc: true
+    code-fold: true
+    rtl: true
+    linkcolor: "#0066cc"
+execute:
+  echo: false
